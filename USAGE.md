@@ -15,8 +15,8 @@ This guide provides detailed instructions for using the MCP Azure Documentation 
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:martoc/-mcp-azure-documentation.git
-   cd -mcp-azure-documentation
+   git clone git@github.com:martoc/mcp-azure-documentation.git
+   cd mcp-azure-documentation
    ```
 
 2. Initialise the development environment:

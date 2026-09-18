@@ -26,8 +26,8 @@ mcp-azure-documentation = "mcp_azure_documentation.server:run_server"
 azure-docs-index = "mcp_azure_documentation.cli:main"
 
 [project.urls]
-homepage = "https://github.com/martoc/-mcp-azure-documentation"
-repository = "https://github.com/martoc/-mcp-azure-documentation"
+homepage = "https://github.com/martoc/mcp-azure-documentation"
+repository = "https://github.com/martoc/mcp-azure-documentation"
 
 [build-system]
 requires = ["hatchling"]
