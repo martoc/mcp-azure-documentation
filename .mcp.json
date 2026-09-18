@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "azure-documentation": {
+      "command": "uv",
+      "args": ["run", "mcp-azure-documentation"]
+    }
+  }
+}
